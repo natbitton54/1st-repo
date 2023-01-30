@@ -1,7 +1,4 @@
 My 1st repo
 hello world
-<<<<<<< HEAD
 fasdfas
-=======
-gsfdg
->>>>>>> e5554a1528721b0342bd010182a164f4a974fd31
+
